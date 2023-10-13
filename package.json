@@ -1,0 +1,14 @@
+{
+  "name": "discord-spammer",
+  "version": "1.0.0",
+  "description": "Discord spammer bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lawvan",
+  "license": "MIT"
+}
